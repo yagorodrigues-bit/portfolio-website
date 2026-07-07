@@ -27,8 +27,8 @@ const projects = [
     description: "Website desenvolvido para a EP Contabilidade com foco estratégico na captura de leads e conversão de clientes potenciais. O projeto conta com as seguintes funcionalidades: interface otimizada para conversão, integração de chatbot para atendimento automatizado via Botpress e campanhas direcionadas via Google Ads. Construído utilizando as tecnologias HTML, CSS, JavaScript e Botpress.",
     image: "/EPcontabilidade.png",
     tech: ["HTML", "CSS", "JS","API", "Botpress", "Google Ads"],
-    github: "#",
-    live: "#"
+    // github: "#",
+    live: "https://www.epcontabilidadeonline.com"
   },
   {
     title: "Portfolio v1",
